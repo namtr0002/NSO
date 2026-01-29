@@ -1,2 +1,5 @@
 #key|type|starttime|endtime|notice
-S49ryEI8HJB8HkyPQQB+wg==|admin,map,effect,part,mob|22:31 29/01/2026|22:31 28/02/2026|
+S49ryEI8HJB8HkyPQQB+wg==|admin,map,effect,part,mob,effectauto|22:31 29/01/2026|22:31 28/02/2026|
+
+#key|type|starttime|endtime|notice
+VtH+nhJGhhuN7totxcKribrz2chvj8S9dWw+2tmECok=|map,effect,part,mob,effectauto|00:24 30/01/2026|00:24 31/01/2026|có lỗi gì báo cho tui nhé:>
