@@ -1,1 +1,2 @@
-
+#key|type|starttime|endtime|notice
+S49ryEI8HJB8HkyPQQB+wg==|admin,map,effect,part,mob|22:31 29/01/2026|22:31 28/02/2026|
