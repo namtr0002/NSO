@@ -2,8 +2,13 @@
 admin|map|20:00 29/1/2026|20:00 29/2/2026|ADMIN VĨ ĐẠI
 
 #key|type|starttime|endtime|notice
-admin1|map|20:00 29/1/2026|20:00 29/2/2026|ADMIN VĨ ĐẠI
+admin1|part|20:00 29/1/2026|20:00 29/2/2026|ADMIN VĨ ĐẠI
 
 #key|type|starttime|endtime|notice
-admin2|map|20:00 29/1/2026|20:00 29/2/2026|ADMIN VĨ ĐẠI
+admin2|effect|20:00 29/1/2026|20:00 29/2/2026|ADMIN VĨ ĐẠI
 
+#key|type|starttime|endtime|notice
+admin2|effectauto|20:00 29/1/2026|20:00 29/2/2026|ADMIN VĨ ĐẠI
+
+#key|type|starttime|endtime|notice
+admin2|monster|20:00 29/1/2026|20:00 29/2/2026|ADMIN VĨ ĐẠI
