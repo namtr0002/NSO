@@ -1,2 +1,2 @@
 #key|type|starttime|endtime|notice
-cuongabcd|admin|21:09 29/01/2026|00:00 31/12/2999|Key nè
+cuongabcd|map,effect,effectauto,part,mob|21:09 29/01/2026|00:00 31/12/2999|Key nè
