@@ -7,4 +7,4 @@ ILvXt//xaGP+ZdbTOLiJDeOWOLGMC581IFg3RyKtolVEoYiuWzwYayNh7j5zz+7G|JUHhX+T5gfq8WxI
 #key|type|start|end|notice
 30dgmzQaqUWZXpxcODggEFr0Wi6IesDndbsrI4F2UCc=|NR4s1Idg2Cru6O0j+l2j09XBGCp9Q/k/35WCqGaGfDnMPHK4+qG2U6X8aEVzGoeo|12:19 11/02/2026|12:19 13/03/2026|Bi key tháng
 #key|type|start|end|notice
-pv/5+b2SO4nu05UIIlc7+w==|QmE1xrtUjvVIAH9bTclKKQ==|0:00 16/02/2026|0:00 21/02/2026|Active
+pv/5+b2SO4nu05UIIlc7+w==|QmE1xrtUjvVIAH9bTclKKQ==|0:00 16/02/2026|0:00 21/02/2026|Tạm biệt 2025 :(
