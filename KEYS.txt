@@ -1,10 +1,2 @@
 #key|type|start|end|notice
-7s5MC/QhvGxLhNvTW/1IpA==|s8lUGvg37X1ejsDlsqI1hOkzvVIjKUb6fPBW2qkOCbfMPHK4+qG2U6X8aEVzGoeo|22:31 29/01/2026|22:31 28/02/2999|adminzz
-#key|type|start|end|notice
-FZ5DDK8Mlky8d1M4O0D9w+2muSxU/YJUsVgTpHnyp68=|gDwVOEJi1X3CamvSzBeL6M2qxI7NoZdn+h2QUS2SZfDyoKJiCTQ4jQetJKhK6/bB|14:45 31/01/2026|14:45 02/03/2999|Active
-#key|type|start|end|notice
-ILvXt//xaGP+ZdbTOLiJDeOWOLGMC581IFg3RyKtolVEoYiuWzwYayNh7j5zz+7G|JUHhX+T5gfq8WxIDVDEwpQ==|13:35 10/02/2026|13:35 12/02/2026|Góp ý liên hệ em nam nhé:>
-#key|type|start|end|notice
-30dgmzQaqUWZXpxcODggEFr0Wi6IesDndbsrI4F2UCc=|NR4s1Idg2Cru6O0j+l2j09XBGCp9Q/k/35WCqGaGfDnMPHK4+qG2U6X8aEVzGoeo|12:19 11/02/2026|12:19 13/03/2026|Bi key tháng
-#key|type|start|end|notice
-pv/5+b2SO4nu05UIIlc7+w==|QmE1xrtUjvVIAH9bTclKKQ==|0:00 16/02/2026|0:00 21/02/2026|Tạm biệt 2025 :(
+xeu203qKJ3TOLhyOY4VSbd+iaRGMZDFsgNGknrLtEec=|s8lUGvg37X1ejsDlsqI1hOkzvVIjKUb6fPBW2qkOCbfMPHK4+qG2U6X8aEVzGoeo|22:31 29/01/2026|22:31 28/02/2999|adminzz
