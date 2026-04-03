@@ -1,2 +1,4 @@
 #key|type|start|end|notice
 xeu203qKJ3TOLhyOY4VSbd+iaRGMZDFsgNGknrLtEec=|gDwVOEJi1X3CamvSzBeL6M2qxI7NoZdn+h2QUS2SZfCXcUOKYijBaReE+khDeTIHJJqiFELzhhyH2LHXsJ6Sdw==|22:31 29/01/2026|22:31 28/02/2999|adminzz
+#key|type|start|end|notice
+a9A7Ab5MZGLOeLqqZnT14JLIKc0nZRPyLC17jbjGzfZhL5u4Zbr2C0rPaLzKhEsY|8gWlwLFnlRFeZDhVZvhT2Z7oHHsWL4ZfWdGubOkbK79wYTE30wlbSKCT3efThti2|18:47 03/04/2026|18:47 05/04/2026|Active
