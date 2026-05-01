@@ -2,3 +2,5 @@
 xeu203qKJ3TOLhyOY4VSbd+iaRGMZDFsgNGknrLtEec=|gDwVOEJi1X3CamvSzBeL6M2qxI7NoZdn+h2QUS2SZfCXcUOKYijBaReE+khDeTIHJJqiFELzhhyH2LHXsJ6Sdw==|22:31 29/01/2026|22:31 28/02/2999|adminzz
 #key|type|start|end|notice
 71oIIbhx7RxFTXzUxNn+nCC1GJSVWcVIkkbgm21Izlo=|QmE1xrtUjvVIAH9bTclKKQ==|19:53 30/04/2026|19:53 01/05/2026|Test
+#key|type|start|end|notice
+urCP9IHjTDZbIwlu02f3sr57JScSueysPSxgkZ2W3iA=|QmE1xrtUjvVIAH9bTclKKQ==|12:45 01/05/2026|12:45 02/05/2026|Active
