@@ -22,3 +22,5 @@ tcHIZrGJTIpUxX7pLnKL57rS4u+15HDrYavjeoy4ViXFvoRVJVp7673vq+DikMua|gDwVOEJi1X3Camv
 od5N5l4qdmzxZ699m5P2oid9jEXjDw8wNfUoTssb9gnFvoRVJVp7673vq+DikMua|QmE1xrtUjvVIAH9bTclKKQ==|18:58 09/05/2026|18:58 08/06/2026|jouce
 #key|type|start|end|notice
 FRXhxXqJPq6/XE9U61v1BQ==|QmE1xrtUjvVIAH9bTclKKQ==|22:00 16/05/2026|13:33 1/07/2026|khachhanglathuongde donate bidv 'thdzai206'
+#key|type|start|end|notice
+SBxKQsg623e8GszRmBHdYg==|QmE1xrtUjvVIAH9bTclKKQ==|13:16 17/05/2026|13:16 16/06/2999|Active
